@@ -1,6 +1,6 @@
 ---
 title: "PAX"
-excerpt: "Antiprotonic Atom X-Ray Spectroscopy 1<br/><img src='/images/LOGO_PA-RVB.png'>"
+excerpt: "Antiprotonic Atom X-Ray Spectroscopy <br/><img src='/images/LOGO_PA-RVB.png'>"
 collection: portfolio
 ---
 
