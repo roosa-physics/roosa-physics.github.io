@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/APSDNP2023
 venue: "Fall Meeting of the Division of Nuclear Physics of the APS and PSJ"
-date: 2023-11
+date: 2023-11-29
 location: "Waikoloa, HI, USA"
 ---
 
