@@ -1,6 +1,6 @@
 ---
 title: "TexAT-TPC"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/texat2-768x746.png'>"
+excerpt: "Texas Active Target - Time Projection Chamber <br/><img src='/images/texat2-768x746.png'>"
 collection: portfolio
 ---
 
