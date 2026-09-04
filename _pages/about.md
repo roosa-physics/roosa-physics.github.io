@@ -10,3 +10,6 @@ redirect_from:
 I am a post-doctoral researcher working at Laboratoire Kastler Brossel in the exotic atoms group where I perform state-of-the-art measurements bench-marking strong-field bound-state QED with anitprotonic atom x-ray spectroscopy. 
 
 This research deploys cutting edge quantum sensors to push the limits in the precision frontier while operating at the interface of high precision atomic physics and accelerator-based particle physics.
+
+Here's a cool photo of me at the AMF: 
+![DO_NOT_TELL_JAMES](/images/PAX_Flag_MR.jpg)
