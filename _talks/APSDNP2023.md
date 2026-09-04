@@ -8,4 +8,6 @@ date: 2023-11-29
 location: "Waikoloa, HI, USA"
 ---
 
-Given at the [Fall Meeting of the Division of Nuclear Physics of the APS and PSJ](https://indico.frib.msu.edu/event/66/overview), I presented progress in my work using the [TexAT-TPC](https://cyclotron.tamu.edu/facilities/texat-tpc/) for single nucleon transfer reactions. 
+I presented progress in my work using the [TexAT-TPC](https://cyclotron.tamu.edu/facilities/texat-tpc/) for single nucleon transfer reactions. 
+
+Given at the [Fall Meeting of the Division of Nuclear Physics of the APS and PSJ](https://indico.frib.msu.edu/event/66/overview). 
