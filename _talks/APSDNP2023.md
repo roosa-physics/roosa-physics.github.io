@@ -1,5 +1,5 @@
 ---
-title: "Spectroscopy of $^{12}$Be using TexAT-TPC"
+title: "Spectroscopy of 12Be using TexAT-TPC"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/APSDNP2023
